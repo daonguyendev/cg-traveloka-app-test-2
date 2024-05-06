@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+## cg-traveloka-app-test2
+## Team Members:
+### 1. Nguyen Van Ky
+### 2. Vu Quang Tu
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
